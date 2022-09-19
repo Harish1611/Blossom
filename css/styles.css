@@ -61,6 +61,18 @@ p {
   position: absolute;
 }
 
+@media (max-width:990px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-img {
+    transform: rotate(0);
+    position: static;
+    width: 50%;
+  }
+}
+
 #features {
   background-color: #fff;
   text-align: center;
@@ -118,4 +130,32 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+#cta {
+  background-color: #548CFF;
+  text-align: center;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+#cta h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+#footer {
+  text-align: center;
+  padding: 3%;
+  border-bottom: solid 12px gray;
+}
+
+.foot-icon {
+  font-size: 25px;
+  color: #96BAFF;
+  padding: 10px 8px;
+}
+
+.foot-icon:hover {
+  color: #2FA4FF;
 }
