@@ -1,110 +1,121 @@
-#title{
+#title {
   background-color: #4D77FF;
   color: #fff;
 }
-body{
-  font-family: 'Montserrat', sans-serif;
 
+body {
+  font-family: 'Montserrat', sans-serif;
 }
 
-h1{
-/*font-family: 'Ubuntu', sans-serif; */
+h1 {
+  /*font-family: 'Ubuntu', sans-serif; */
   font-size: 3rem;
-  font-weight:900;
+  font-weight: 900;
   line-height: 1.5;
 }
-h2{
+
+h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
 }
-h3{
+
+h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
-
-}
-p{
-  color:#8f8f8f;
 }
 
-.container-fluid{
-  padding: 3% 15%;
+p {
+  color: #8f8f8f;
 }
 
-.navbar{
-  padding:0 0 4.5rem;
+.container-fluid {
+  padding: 5% 15% 18%;
 }
-.navbar-brand{
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
   font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
   font-weight: bold;
 }
 
-.nav-item{
+.nav-item {
   padding: 0px 18px;
 }
 
-.nav-link{
+.nav-link {
   font-size: 1.2rem;
   font-family: 'Montserrat', sans-serif;
 }
 
-.download-btn{
-  margin:5% 3% 5% 0;
+.download-btn {
+  margin: 5% 3% 5% 0;
 }
 
-.title-img{
-  width: 80%;
+.title-img {
+  width: 30%;
   transform: rotate(25deg);
+  position: absolute;
 }
-#features{
+
+#features {
+  background-color: #fff;
   text-align: center;
   padding: 7% 15%;
+  position: relative;
+  z-index: 1;
 }
-.feat-div{
+
+.feat-div {
   padding: 5%;
   line-height: 1.5;
 }
-.aw-icon{
+
+.aw-icon {
   color: #77ACF1;
   font-size: 50px;
   padding-bottom: 20px;
 }
-.aw-icon:hover{
-  color:#4D77FF;
+
+.aw-icon:hover {
+  color: #4D77FF;
 }
 
-#testimonials{
+#testimonials {
   background-color: #548CFF;
   text-align: center;
-  color:#fff;
+  color: #fff;
 }
-.carousel-item{
+
+.carousel-item {
   padding: 7% 15%;
-
 }
 
-#testimonials img{
-  height:100px;
-  border-radius:100%;
-  margin:30px 10px;
+#testimonials img {
+  height: 100px;
+  border-radius: 100%;
+  margin: 30px 10px;
 }
-#press{
+
+#press {
   background-color: #548CFF;
   text-align: center;
   padding-bottom: 5%;
 }
 
-.press-img{
+.press-img {
   height: 40px;
   padding: 5px;
 }
 
-
-#pricing{
-  padding:100px;
+#pricing {
+  padding: 100px;
   text-align: center;
 }
-.pricing-column{
-  padding:3% 2%;
-}
 
+.pricing-column {
+  padding: 3% 2%;
+}
