@@ -56,8 +56,8 @@ p {
 }
 
 .title-img {
-  width: 30%;
-  transform: rotate(25deg);
+  width: 40%;
+  transform: rotate(5deg);
   position: absolute;
 }
 
@@ -69,7 +69,7 @@ p {
   .title-img {
     transform: rotate(0);
     position: static;
-    width: 50%;
+    width: 90%;
   }
 }
 
