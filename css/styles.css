@@ -155,7 +155,13 @@ p {
   color: #96BAFF;
   padding: 10px 8px;
 }
+<<<<<<< HEAD
 
 .foot-icon:hover {
   color: #2FA4FF;
+=======
+.foot-icon:hover {
+  color: #2FA4FF;
+  
+>>>>>>> b304e8ba4658201dbfc7dc2c3a3e1b264a82ec86
 }
