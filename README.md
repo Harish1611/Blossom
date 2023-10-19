@@ -7,7 +7,7 @@
 
 ## About Project
 
-Blossom: It is a Dating App UI, which is designed to describe and explore the basic building blocks of Webdesign HTML, CSS, JS and BootStrap5
+It is a Dating App UI, which is designed to describe and explore the basic building blocks of Web Design & Development- HTML, CSS, JS and BootStrap5
 <br/>
 
 ![blog Homepage](image.png)
